@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_display"
+        android:title="Display Location Fragment" />
+    <item
+        android:id="@+id/menu_select"
+        android:title="Select Location Fragment" />
+    <item
+        android:id="@+id/menu_current"
+        android:title="Current Location Fragment" />
+</menu>
